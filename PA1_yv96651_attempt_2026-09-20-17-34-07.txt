@@ -1,0 +1,18 @@
+Name: Nathan Rubiano (yv96651)
+Assignment: PA1
+Date Submitted: Sunday, September 20, 2026 5:34:07 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_yv96651_attempt_2026-09-20-17-34-07_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_yv96651_attempt_2026-09-20-17-34-07_pa01.pdf
+

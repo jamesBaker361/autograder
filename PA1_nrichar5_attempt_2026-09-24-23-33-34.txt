@@ -1,0 +1,18 @@
+Name: Nia Richard (nrichar5)
+Assignment: PA1
+Date Submitted: Thursday, September 24, 2026 11:33:34 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_nrichar5_attempt_2026-09-24-23-33-34_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_nrichar5_attempt_2026-09-24-23-33-34_pa01.pdf
+

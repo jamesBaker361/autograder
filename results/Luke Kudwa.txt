@@ -1,0 +1,24 @@
+Student: Luke Kudwa (lkudwa1)
+Submission: PA1_lkudwa1_attempt_2026-09-22-16-18-40_dc.py
+
+$ python dcsolve.py dog cat
+Initial Word: dog       Goal Word: cat       Cost Measure: steps	 cost:3.00; time:0.000; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+Initial Word: why       Goal Word: ask       Cost Measure: steps	 cost:5.00; time:0.001; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+Initial Word: test       Goal Word: bush       Cost Measure: steps	 cost:3.00; time:0.000; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+Initial Word: love       Goal Word: hate       Cost Measure: steps	 cost:3.00; time:0.000; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+Initial Word: bear       Goal Word: duck       Cost Measure: steps	 cost:4.00; time:0.001; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+Initial Word: bear       Goal Word: duck       Cost Measure: scrabble	 cost:11.00; time:2.945; solution:bear beak beck buck duck; deltas:[-6.935, -2.951, -0.968, -0.984]
+
+$ python dcsolve.py bear duck frequency
+Initial Word: bear       Goal Word: duck       Cost Measure: frequency	 cost:38.24; time:1.063; solution:bear beak beck buck duck; deltas:[-34.175, -22.727, -14.232, -7.213]
+

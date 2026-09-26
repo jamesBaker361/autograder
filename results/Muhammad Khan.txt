@@ -1,0 +1,24 @@
+Student: Muhammad Khan (mkhan21)
+Submission: PA1_mkhan21_attempt_2026-09-26-01-25-40_dc.py
+
+$ python dcsolve.py dog cat
+dc(dog,cat,steps) cost:3.00; time:0.001; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+dc(why,ask,steps) cost:5.00; time:0.001; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+dc(test,bush,steps) cost:3.00; time:0.000; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+dc(love,hate,steps) cost:3.00; time:0.000; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+dc(bear,duck,steps) cost:4.00; time:0.001; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+dc(bear,duck,scrabble) cost:11.00; time:0.001; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck frequency
+dc(bear,duck,frequency) cost:38.24; time:0.186; solution:bear beak beck buck duck; deltas:[-27.011, -15.546, -7.034, 0.0]
+

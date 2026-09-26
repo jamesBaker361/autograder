@@ -1,0 +1,21 @@
+Name: Akash Subba (uq29698)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 9:37:59 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_uq29698_attempt_2026-09-23-21-37-59_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_uq29698_attempt_2026-09-23-21-37-59_pa01.pdf
+
+	Original filename: pa01(1).pdf
+	Filename: PA1_uq29698_attempt_2026-09-23-21-37-59_pa01(1).pdf
+

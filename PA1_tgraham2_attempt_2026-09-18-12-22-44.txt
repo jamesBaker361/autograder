@@ -1,0 +1,18 @@
+Name: Toni Graham (tgraham2)
+Assignment: PA1
+Date Submitted: Friday, September 18, 2026 12:22:44 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_tgraham2_attempt_2026-09-18-12-22-44_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_tgraham2_attempt_2026-09-18-12-22-44_pa01.pdf
+

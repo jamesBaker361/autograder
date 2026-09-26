@@ -1,0 +1,38 @@
+Student: Tim Phan (gb22455)
+Submission: PA1_gb22455_attempt_2026-09-24-19-34-04_dc.py
+
+$ python dcsolve.py dog cat
+Initial state: dog
+Goal state: cat
+Cost metric: steps cost:3.00; time:0.001; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+Initial state: why
+Goal state: ask
+Cost metric: steps cost:5.00; time:0.006; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+Initial state: test
+Goal state: bush
+Cost metric: steps cost:3.00; time:0.003; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+Initial state: love
+Goal state: hate
+Cost metric: steps cost:3.00; time:0.002; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+Initial state: bear
+Goal state: duck
+Cost metric: steps cost:4.00; time:0.005; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+Initial state: bear
+Goal state: duck
+Cost metric: scrabble cost:14.00; time:0.038; solution:bear dear deal dual duel duet duct duck; deltas:[-1.231, -2.423, -1.423, -3.615, -2.615, -1.615, -1.808]
+
+$ python dcsolve.py bear duck frequency
+Initial state: bear
+Goal state: duck
+Cost metric: frequency cost:38.24; time:0.008; solution:bear beak beck buck duck; deltas:[9.143, 9.762, 7.427, 3.616]
+

@@ -1,0 +1,18 @@
+Name: Maria Bryant (mariab5)
+Assignment: PA1
+Date Submitted: Thursday, September 24, 2026 1:31:57 AM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_mariab5_attempt_2026-09-24-01-31-57_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_mariab5_attempt_2026-09-24-01-31-57_pa01.pdf
+

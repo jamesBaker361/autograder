@@ -1,0 +1,18 @@
+Name: Sarah Tran (stran5)
+Assignment: PA1
+Date Submitted: Saturday, September 26, 2026 2:33:05 AM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_stran5_attempt_2026-09-26-02-33-05_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_stran5_attempt_2026-09-26-02-33-05_pa01.pdf
+

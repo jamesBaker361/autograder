@@ -1,0 +1,31 @@
+Student: Ehizele Obinyan (ehizelo1)
+Submission: PA1_ehizelo1_attempt_2026-09-23-20-07-20_dc.py
+
+$ python dcsolve.py dog cat
+6.886906 6.4457407
+dc(dog,cat,steps) cost:3.00; time:0.000; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+6.886906 6.4457407
+dc(why,ask,steps) cost:5.00; time:0.001; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+6.886906 6.4457407
+dc(test,bush,steps) cost:3.00; time:0.000; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+6.886906 6.4457407
+dc(love,hate,steps) cost:3.00; time:0.000; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+6.886906 6.4457407
+dc(bear,duck,steps) cost:4.00; time:0.000; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+6.886906 6.4457407
+dc(bear,duck,scrabble) cost:11.00; time:2.585; solution:bear beak beck buck duck; deltas:[-7, -3, -1, -1]
+
+$ python dcsolve.py bear duck frequency
+6.886906 6.4457407
+dc(bear,duck,frequency) cost:38.24; time:0.813; solution:bear beak beck buck duck; deltas:[-34.24, -22.776, -14.264, -7.23]
+

@@ -1,0 +1,51 @@
+Name: Sai Deekshitha Mittapalli (smittap1)
+Assignment: PA1
+Date Submitted: Thursday, September 24, 2026 12:00:11 AM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dctest.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_dctest.py
+
+	Original filename: experiments.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_experiments.py
+
+	Original filename: test_q4.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_test_q4.py
+
+	Original filename: p8.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_p8.py
+
+	Original filename: dcsolve.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_dcsolve.py
+
+	Original filename: Sai Deekshitha Mittapalli CMSC471 PA1.pdf
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_Sai Deekshitha Mittapalli CMSC471 PA1.pdf
+
+	Original filename: wjtest.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_wjtest.py
+
+	Original filename: wj.ipynb
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_wj.ipynb
+
+	Original filename: search.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_search.py
+
+	Original filename: utils.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_utils.py
+
+	Original filename: dc.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_dc.py
+
+	Original filename: wj.py
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_wj.py
+
+	Original filename: p8.ipynb
+	Filename: PA1_smittap1_attempt_2026-09-24-00-00-11_p8.ipynb
+

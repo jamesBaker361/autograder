@@ -1,0 +1,48 @@
+Student: Anika Herath (anikah2)
+Submission: PA1_anikah2_attempt_2026-09-23-23-55-14_dc.py
+
+$ python dcsolve.py dog cat
+DC(dog,cat,steps) cost:3.00; time:0.000; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+DC(why,ask,steps) cost:5.00; time:0.001; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+DC(test,bush,steps) cost:3.00; time:0.000; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+DC(love,hate,steps) cost:3.00; time:0.000; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+DC(bear,duck,steps) cost:4.00; time:0.000; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+DC(bear,duck,scrabble) cost:11.00; time:0.001; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck frequency
+Traceback (most recent call last):
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/dcsolve.py", line 46, in <module>
+    dcsolver(args.word1, args.word2, args.cost)
+    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/dcsolve.py", line 21, in dcsolver
+    solution = astar_search(problem)
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/search.py", line 420, in astar_search
+    return best_first_graph_search(problem, lambda n: n.path_cost + h(n), display)
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/search.py", line 271, in best_first_graph_search
+    frontier.append(node)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/utils.py", line 740, in append
+    heapq.heappush(self.heap, (self.f(item), item))
+                               ~~~~~~^^^^^^
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/utils.py", line 417, in memoized_fn
+    val = fn(obj, *args)
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/search.py", line 420, in <lambda>
+    return best_first_graph_search(problem, lambda n: n.path_cost + h(n), display)
+                                                                    ~^^^
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/utils.py", line 417, in memoized_fn
+    val = fn(obj, *args)
+  File "/Users/jamesbaker/Desktop/gradebook_MERGED_CMSC471_01_FA2026_PA1_2026-09-26-10-41-18/code_skeleton/dc.py", line 214, in h
+    if state[i] != word[i]:
+                   ~~~~^^^
+IndexError: string index out of range
+

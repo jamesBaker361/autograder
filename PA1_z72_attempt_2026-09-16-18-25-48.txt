@@ -1,0 +1,18 @@
+Name: Matthew Zhong (z72)
+Assignment: PA1
+Date Submitted: Wednesday, September 16, 2026 6:25:48 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_z72_attempt_2026-09-16-18-25-48_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_z72_attempt_2026-09-16-18-25-48_pa01.pdf
+

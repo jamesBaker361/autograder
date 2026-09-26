@@ -1,0 +1,38 @@
+Student: Pranathi Nelson (pnelson1)
+Submission: PA1_pnelson1_attempt_2026-09-23-21-46-06_dc.py
+
+$ python dcsolve.py dog cat
+initial: dog 
+goal: cat
+cost measure: steps cost:3.00; time:0.000; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+initial: why 
+goal: ask
+cost measure: steps cost:5.00; time:0.001; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+initial: test 
+goal: bush
+cost measure: steps cost:3.00; time:0.000; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+initial: love 
+goal: hate
+cost measure: steps cost:3.00; time:0.000; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+initial: bear 
+goal: duck
+cost measure: steps cost:4.00; time:0.000; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+initial: bear 
+goal: duck
+cost measure: scrabble cost:11.00; time:0.001; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck frequency
+initial: bear 
+goal: duck
+cost measure: frequency cost:38.24; time:0.324; solution:bear beak beck buck duck; deltas:[-30.011, -17.546, -8.034, 0.0]
+

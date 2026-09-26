@@ -1,0 +1,24 @@
+Student: Dylan McPhillips (dmcphil1)
+Submission: PA1_dmcphil1_attempt_2026-09-24-02-50-13_dc.py
+
+$ python dcsolve.py dog cat
+DOGCAT(dog, cat, steps) cost:3.00; time:0.002; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+DOGCAT(why, ask, steps) cost:5.00; time:0.004; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+DOGCAT(test, bush, steps) cost:3.00; time:0.002; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+DOGCAT(love, hate, steps) cost:3.00; time:0.002; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+DOGCAT(bear, duck, steps) cost:4.00; time:0.003; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+DOGCAT(bear, duck, scrabble) cost:11.00; time:0.003; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck frequency
+DOGCAT(bear, duck, frequency) cost:38.24; time:1.276; solution:bear beak beck buck duck; deltas:[-34.175, -22.727, -14.232, -7.213]
+

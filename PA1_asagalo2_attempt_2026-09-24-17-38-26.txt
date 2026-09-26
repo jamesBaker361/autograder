@@ -1,0 +1,18 @@
+Name: Anthony Sagalovsky (asagalo2)
+Assignment: PA1
+Date Submitted: Thursday, September 24, 2026 5:38:26 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc(1).py
+	Filename: PA1_asagalo2_attempt_2026-09-24-17-38-26_dc(1).py
+
+	Original filename: pa01.pdf
+	Filename: PA1_asagalo2_attempt_2026-09-24-17-38-26_pa01.pdf
+

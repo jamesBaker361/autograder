@@ -1,0 +1,18 @@
+Name: Sean Raynor (lj65731)
+Assignment: PA1
+Date Submitted: Friday, September 25, 2026 4:28:53 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: pa01 (1).pdf
+	Filename: PA1_lj65731_attempt_2026-09-25-16-28-53_pa01 (1).pdf
+
+	Original filename: dc.py
+	Filename: PA1_lj65731_attempt_2026-09-25-16-28-53_dc.py
+

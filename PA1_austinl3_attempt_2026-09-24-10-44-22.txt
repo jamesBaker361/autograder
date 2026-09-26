@@ -1,0 +1,18 @@
+Name: Austin Laubach (austinl3)
+Assignment: PA1
+Date Submitted: Thursday, September 24, 2026 10:44:22 AM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_austinl3_attempt_2026-09-24-10-44-22_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_austinl3_attempt_2026-09-24-10-44-22_pa01.pdf
+

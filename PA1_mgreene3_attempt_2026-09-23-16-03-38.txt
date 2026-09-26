@@ -1,0 +1,18 @@
+Name: Michael Greene (mgreene3)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 4:03:38 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_mgreene3_attempt_2026-09-23-16-03-38_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_mgreene3_attempt_2026-09-23-16-03-38_pa01.pdf
+

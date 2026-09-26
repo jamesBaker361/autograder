@@ -1,0 +1,18 @@
+Name: Antonio Lazzaro (alazzar1)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 1:53:04 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_alazzar1_attempt_2026-09-23-13-53-04_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_alazzar1_attempt_2026-09-23-13-53-04_pa01.pdf
+

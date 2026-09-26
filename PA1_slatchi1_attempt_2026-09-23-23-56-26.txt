@@ -1,0 +1,18 @@
+Name: Sai Latchi (slatchi1)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 11:56:26 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: PA1- Sai Latchi.pdf
+	Filename: PA1_slatchi1_attempt_2026-09-23-23-56-26_PA1- Sai Latchi.pdf
+
+	Original filename: dc.py
+	Filename: PA1_slatchi1_attempt_2026-09-23-23-56-26_dc.py
+

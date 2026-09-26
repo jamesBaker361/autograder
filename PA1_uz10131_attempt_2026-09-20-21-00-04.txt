@@ -1,0 +1,18 @@
+Name: Daniel Augusti (uz10131)
+Assignment: PA1
+Date Submitted: Sunday, September 20, 2026 9:00:04 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_uz10131_attempt_2026-09-20-21-00-04_dc.py
+
+	Original filename: d_augusti_471_1188.pdf
+	Filename: PA1_uz10131_attempt_2026-09-20-21-00-04_d_augusti_471_1188.pdf
+

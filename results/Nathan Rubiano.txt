@@ -1,0 +1,24 @@
+Student: Nathan Rubiano (yv96651)
+Submission: PA1_yv96651_attempt_2026-09-20-17-34-07_dc.py
+
+$ python dcsolve.py dog cat
+Changing the initial word dog --> cat using a steps cost measurement cost:3.00; time:0.000; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+Changing the initial word why --> ask using a steps cost measurement cost:5.00; time:0.001; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+Changing the initial word test --> bush using a steps cost measurement cost:3.00; time:0.000; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+Changing the initial word love --> hate using a steps cost measurement cost:3.00; time:0.000; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+Changing the initial word bear --> duck using a steps cost measurement cost:4.00; time:0.000; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+Changing the initial word bear --> duck using a scrabble cost measurement cost:11.00; time:0.001; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck frequency
+Changing the initial word bear --> duck using a frequency cost measurement cost:38.24; time:0.819; solution:bear beak beck buck duck; deltas:[-27.011, -15.546, -7.034, 0.0]
+

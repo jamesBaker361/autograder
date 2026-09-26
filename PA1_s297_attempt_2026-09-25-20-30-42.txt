@@ -1,0 +1,18 @@
+Name: Samantha Shedwick (s297)
+Assignment: PA1
+Date Submitted: Friday, September 25, 2026 8:30:42 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_s297_attempt_2026-09-25-20-30-42_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_s297_attempt_2026-09-25-20-30-42_pa01.pdf
+

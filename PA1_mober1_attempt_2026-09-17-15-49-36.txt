@@ -1,0 +1,18 @@
+Name: Micah Ober (mober1)
+Assignment: PA1
+Date Submitted: Thursday, September 17, 2026 3:49:36 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_mober1_attempt_2026-09-17-15-49-36_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_mober1_attempt_2026-09-17-15-49-36_pa01.pdf
+

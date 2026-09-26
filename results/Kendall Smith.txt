@@ -1,0 +1,24 @@
+Student: Kendall Smith (ksmith25)
+Submission: PA1_ksmith25_attempt_2026-09-25-14-51-08_dc.py
+
+$ python dcsolve.py dog cat
+DCProblem(start=dog, goal=cat, cost=steps) cost:3.00; time:0.001; solution:dog cog cot cat; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py why ask
+DCProblem(start=why, goal=ask, cost=steps) cost:5.00; time:0.006; solution:why wha aha ahs ass ask; deltas:[-2, -1, -1, 0.0, 0.0]
+
+$ python dcsolve.py test bush
+DCProblem(start=test, goal=bush, cost=steps) cost:3.00; time:0.003; solution:test best bust bush; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py love hate
+DCProblem(start=love, goal=hate, cost=steps) cost:3.00; time:0.003; solution:love hove have hate; deltas:[0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck steps
+DCProblem(start=bear, goal=duck, cost=steps) cost:4.00; time:0.008; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck scrabble
+DCProblem(start=bear, goal=duck, cost=scrabble) cost:11.00; time:0.007; solution:bear beak beck buck duck; deltas:[0.0, 0.0, 0.0, 0.0]
+
+$ python dcsolve.py bear duck frequency
+DCProblem(start=bear, goal=duck, cost=frequency) cost:38.24; time:2.634; solution:bear beak beck buck duck; deltas:[-32.834, -21.721, -13.561, -6.878]
+

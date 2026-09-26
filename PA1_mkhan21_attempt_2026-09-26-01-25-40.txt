@@ -1,0 +1,18 @@
+Name: Muhammad Khan (mkhan21)
+Assignment: PA1
+Date Submitted: Saturday, September 26, 2026 1:25:40 AM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_mkhan21_attempt_2026-09-26-01-25-40_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_mkhan21_attempt_2026-09-26-01-25-40_pa01.pdf
+

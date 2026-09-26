@@ -1,0 +1,18 @@
+Name: Matt Nyandjo (mattn3)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 8:10:03 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: pa01 .pdf
+	Filename: PA1_mattn3_attempt_2026-09-23-20-10-03_pa01 .pdf
+
+	Original filename: dc.py
+	Filename: PA1_mattn3_attempt_2026-09-23-20-10-03_dc.py
+

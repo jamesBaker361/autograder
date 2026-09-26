@@ -1,0 +1,18 @@
+Name: Divine Nwokedi (dnwoked1)
+Assignment: PA1
+Date Submitted: Friday, September 25, 2026 11:39:30 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: PA1 Analysis.pdf
+	Filename: PA1_dnwoked1_attempt_2026-09-25-23-39-30_PA1 Analysis.pdf
+
+	Original filename: dc.py
+	Filename: PA1_dnwoked1_attempt_2026-09-25-23-39-30_dc.py
+

@@ -1,0 +1,18 @@
+Name: Yaw Obeng Frimpong (yobengf1)
+Assignment: PA1
+Date Submitted: Friday, September 25, 2026 12:18:09 AM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_yobengf1_attempt_2026-09-25-00-18-09_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_yobengf1_attempt_2026-09-25-00-18-09_pa01.pdf
+

@@ -1,0 +1,18 @@
+Name: Brandon McFarling (bmcfarl1)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 6:20:16 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_bmcfarl1_attempt_2026-09-23-18-20-16_dc.py
+
+	Original filename: pa01 (2).pdf
+	Filename: PA1_bmcfarl1_attempt_2026-09-23-18-20-16_pa01 (2).pdf
+

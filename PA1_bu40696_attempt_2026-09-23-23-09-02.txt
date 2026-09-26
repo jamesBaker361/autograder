@@ -1,0 +1,15 @@
+Name: Ayushman Ghosh (bu40696)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 11:09:02 PM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+<p><a href="https://drive.google.com/file/d/1koKiTekcsgUI2AkMg-Nina4RgxnHRPEk/view?usp=sharing">https://drive.google.com/file/d/1koKiTekcsgUI2AkMg-Nina4RgxnHRPEk/view?usp=sharing</a></p><br/><p>Due to Blackboard's file-size limit, I was unable to upload my written assignment directly as a PDF. I have included a Google Drive link to the completed written submission instead. My dc.py file is attached normally to this Blackboard submission.</p><p>As a backup, I have also emailed the professor before the deadline with both my Python file and written assignment attached. Thank you for understanding.</p>
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_bu40696_attempt_2026-09-23-23-09-02_dc.py
+

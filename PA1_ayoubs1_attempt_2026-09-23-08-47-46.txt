@@ -1,0 +1,18 @@
+Name: Ayoub Sabri (ayoubs1)
+Assignment: PA1
+Date Submitted: Wednesday, September 23, 2026 8:47:46 AM EDT
+Current Grade: Needs Grading
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+There are no student comments for this assignment.
+
+Files:
+	Original filename: dc.py
+	Filename: PA1_ayoubs1_attempt_2026-09-23-08-47-46_dc.py
+
+	Original filename: pa01.pdf
+	Filename: PA1_ayoubs1_attempt_2026-09-23-08-47-46_pa01.pdf
+
